@@ -11,7 +11,7 @@
   border-radius: 10%;
   text-align: center;
   margin: 10px auto;
-  color: #24943c;
+  color: #112;
   font-family: 'Exo', sans-serif;
   overflow: hidden;
 }
@@ -40,7 +40,7 @@
 #container #info{
   height: 200px;
   width: 200px;
-  background: #000000;
+  background: #CE2401;
   border-radius: 100%;
   text-align: center;
   margin: 0 auto;
