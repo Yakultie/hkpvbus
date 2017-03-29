@@ -5,7 +5,7 @@
 }
 
 #container {
-  background: #0052BA;
+  background: #BA8900;
   width:380px;
   height: 400px;
   border-radius: 10%;
@@ -40,7 +40,7 @@
 #container #info{
   height: 200px;
   width: 200px;
-  background: #CE2401;
+  background: #000000;
   border-radius: 100%;
   text-align: center;
   margin: 0 auto;
@@ -67,7 +67,7 @@ body {
   min-height: 100%;
   background: #5F93C5; /* Old browsers */
 background: -moz-radial-gradient(center, ellipse cover, #9ac2f9 0%, #2e6b9a 100%);
-background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#9ac2f9), color-stop(100%,#2e6b9a));
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#c7d047), color-stop(100%,#2e6b9a));
 background: -webkit-radial-gradient(center, ellipse cover, #9ac2f9 0%,#2e6b9a 100%);
 background: -o-radial-gradient(center, ellipse cover, #9ac2f9 0%,#2e6b9a 100%);
 background: -ms-radial-gradient(center, ellipse cover, #9ac2f9 0%,#2e6b9a 100%);
